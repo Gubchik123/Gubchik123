@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita Hubariev</h1>
+<h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Python Backend Developer from Ukraine</h3>
 
 -   🔭 My Django site [Soon](#)
@@ -6,7 +6,7 @@
 -   🤝 My [WeatherGubchikBot](https://t.me/WeatherGubchikBot)
 -   🌱 I’m currently learning **Django**
 -   📄 Know about my experiences [Soon](#)
--   📫 How to reach me **nikita.gubarev31@gmail.com**
+-   📫 How to reach me **nikita.hubariev@gmail.com**
 -   👨‍💻 All of my deployed projects are available at [GitHub repositories](https://github.com/Gubchik123?tab=repositories)
 -   ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
 
