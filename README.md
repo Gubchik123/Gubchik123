@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Python Backend Developer from Ukraine</h3>
 
--   🔭 My Django site [Soon](#)
--   👯 My Flask site [ITish](https://gubchik123.pythonanywhere.com)
--   🤝 My [WeatherGubchikBot](https://t.me/WeatherGubchikBot)
 -   🌱 I’m currently learning **Django**
 -   📄 Know about my experiences [Soon](#)
 -   📫 How to reach me **nikita.hubariev@gmail.com**
--   👨‍💻 All of my deployed projects are available at [GitHub repositories](https://github.com/Gubchik123?tab=repositories)
+-   👨‍💻 All of my deployed projects are available at my [Project board](https://gubchik123-project-board.netlify.app/)
 -   ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
 
 ### Connect with me:
