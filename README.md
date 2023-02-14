@@ -8,7 +8,7 @@
 
 ## Connect with me
 
-<a href="mailto:nikita.hubariev@gmail.com" target="_blank"><img src="./logos/Gmail.png" width="40px" /></a> &nbsp; <img src="./logos/LinkedIn.png" width="40px" /> &nbsp; <a href="tg://resolve?domain=Gubchik123" target="_blank"><img src="./logos/Telegram.png" width="40px" /></a> &nbsp; <a href="https://twitter.com/Gubchik123" target="_blank"><img src="./logos/Twitter.png" width="40px" /></a> &nbsp; <a href="https://instagram.com/nikitos.1746" target="_blank"><img src="./logos/Instagram.png" width="40px" /></a> &nbsp;
+<a href="mailto:nikita.hubariev@gmail.com" target="_blank"><img src="./logos/Gmail.png" width="40px" /></a> &nbsp; <img src="./logos/LinkedIN.png" width="40px" /> &nbsp; <a href="tg://resolve?domain=Gubchik123" target="_blank"><img src="./logos/Telegram.png" width="40px" /></a> &nbsp; <a href="https://twitter.com/Gubchik123" target="_blank"><img src="./logos/Twitter.png" width="40px" /></a> &nbsp; <a href="https://instagram.com/nikitos.1746" target="_blank"><img src="./logos/Instagram.png" width="40px" /></a> &nbsp;
 
 ## Technology stack
 
