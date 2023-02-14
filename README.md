@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Python Backend Developer from Ukraine</h3>
 
-🌱 I’m currently learning **Django**
-📄 Know about my experiences [Soon](#)
-👨‍💻 All of my deployed projects are available at my [Project board](https://gubchik123-project-board.netlify.app/)
+🌱 I’m currently learning **Django** <br />
+📄 Know about my experiences [Soon](#) <br />
+👨‍💻 All of my deployed projects are available at my [Project board](https://gubchik123-project-board.netlify.app/) <br />
 ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
 
 ## Connect with me
@@ -16,7 +16,7 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) <br />
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
 
 **Testing**
@@ -25,7 +25,7 @@
 
 **Databases**
 
-![SQL](https://img.shields.io/badge/-SQL-%233179B9?style=flat-square&logo=SQL&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-%233179B9?style=flat-square&logo=SQL&logoColor=fff) <br />
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%2330628A?style=flat-square&logo=Postgresql&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%23fff?style=flat-square&logo=MySQL&logoColor=4F7B99)
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-%23fff?style=flat-square&logo=MongoDB) -->
