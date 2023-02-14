@@ -1,16 +1,39 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Python Backend Developer from Ukraine</h3>
 
--   🌱 I’m currently learning **Django**
--   📄 Know about my experiences [Soon](#)
--   📫 How to reach me **nikita.hubariev@gmail.com**
--   👨‍💻 All of my deployed projects are available at my [Project board](https://gubchik123-project-board.netlify.app/)
--   ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
+🌱 I’m currently learning **Django**
+📄 Know about my experiences [Soon](#)
+👨‍💻 All of my deployed projects are available at my [Project board](https://gubchik123-project-board.netlify.app/)
+⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
 
-### Connect with me:
+## Connect with me
 
-<a href="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a> <a href="https://fb.com/nikitos.1746"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikitos.1746" height="30" width="40" /></a> <a href="https://instagram.com/nikitos.1746"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikitos.1746" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/20199410"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20199410" height="30" width="40" /></a>
+<a href="mailto:nikita.hubariev@gmail.com" target="_blank"><img src="./logos/Gmail.png" width="40px" /></a> &nbsp; <img src="./logos/LinkedIn.png" width="40px" /> &nbsp; <a href="tg://resolve?domain=Gubchik123" target="_blank"><img src="./logos/Telegram.png" width="40px" /></a> &nbsp; <a href="https://twitter.com/Gubchik123" target="_blank"><img src="./logos/Twitter.png" width="40px" /></a> &nbsp; <a href="https://instagram.com/nikitos.1746" target="_blank"><img src="./logos/Instagram.png" width="40px" /></a> &nbsp;
 
-### Languages and Tools:
+## Technology stack
 
-<a href="https://www.python.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp; <span style="font-size: 50px;">|</span> &nbsp; <a href="https://www.djangoproject.com/" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> &nbsp; <a href="https://flask.palletsprojects.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> &nbsp; <span style="font-size: 50px;">|</span> &nbsp; <a href="https://www.postgresql.org" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> &nbsp; <a href="https://www.mysql.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp; <a href="https://www.sqlite.org/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> &nbsp; <a href="https://www.mongodb.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> &nbsp; <span style="font-size: 50px;">|</span> &nbsp; <a href="https://www.w3.org/html/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp; <a href="https://www.w3schools.com/css/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp; <a href="https://getbootstrap.com" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp; <span style="font-size: 50px;">|</span> &nbsp; <a href="https://git-scm.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp; <a href="https://www.linux.org/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> &nbsp; <a href="https://www.selenium.dev" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<img align="right" alt="GIF" src="./code.gif" />
+
+**Back-end**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+
+**Testing**
+
+![PyTest](https://img.shields.io/badge/-PyTest-%232c3e50?style=flat-square&logo=PyTest) ![Unittest](https://img.shields.io/badge/-UnitTest-%232c3e50?style=flat-square&logo=UnitTest) ![Selenium](https://img.shields.io/badge/-Selenium-%2300AB00?style=flat-square&logo=Selenium&logoColor=fff)
+
+**Databases**
+
+![SQL](https://img.shields.io/badge/-SQL-%233179B9?style=flat-square&logo=SQL&logoColor=fff)
+![Postgresql](https://img.shields.io/badge/-Postgresql-%2330628A?style=flat-square&logo=Postgresql&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%23fff?style=flat-square&logo=MySQL&logoColor=4F7B99)
+
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-%23fff?style=flat-square&logo=MongoDB) -->
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-%23720ce3?style=flat-square&logo=Bootstrap&logoColor=fff)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-%23E44D30?style=flat-square&logo=git&logoColor=%23fff) ![GitHub](https://img.shields.io/badge/-GitHub-%231E1E1E?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-%23fff?style=flat-square&logo=linux&logoColor=%23000)
