@@ -2,7 +2,7 @@
 <h3 align="center">Python Backend Developer from Ukraine</h3>
 
 🌱 I’m currently learning **Django** <br />
-📄 Know about my experiences [Soon](#) <br />
+📄 Know about my experiences at my [CV site](https://nikita-hubariev-cv.netlify.app/) <br />
 👨‍💻 All of my deployed projects are available at my [Project board](https://gubchik123-project-board.netlify.app/) <br />
 ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
 
