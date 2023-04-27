@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">Python Backend Developer from Ukraine</h3>
+<h3 align="center">Python Web Developer from Ukraine</h3>
 
 🌱 I’m currently learning **Django** <br />
 📄 Know about my experiences at my [CV site](https://nikita-hubariev.me) <br />
