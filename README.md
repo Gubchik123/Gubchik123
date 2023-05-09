@@ -26,7 +26,7 @@
 **Databases**
 
 ![SQL](https://img.shields.io/badge/-SQL-%233179B9?style=flat-square&logo=SQL&logoColor=fff) <br />
-![Postgresql](https://img.shields.io/badge/-Postgresql-%2330628A?style=flat-square&logo=Postgresql&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%23fff?style=flat-square&logo=MySQL&logoColor=4F7B99)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2330628A?style=flat-square&logo=PostgreSQL&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%23fff?style=flat-square&logo=MySQL&logoColor=4F7B99)
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-%23fff?style=flat-square&logo=MongoDB) -->
 
