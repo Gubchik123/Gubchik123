@@ -36,4 +36,4 @@
 
 **Tools**
 
-![Git](https://img.shields.io/badge/-Git-%23E44D30?style=flat-square&logo=git&logoColor=%23fff) ![GitHub](https://img.shields.io/badge/-GitHub-%231E1E1E?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-%23fff?style=flat-square&logo=linux&logoColor=%23000)
+![PyCharm](https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=PyCharm) ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-Studio-Code) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-%23fff?style=flat-square&logo=linux&logoColor=%23000)
