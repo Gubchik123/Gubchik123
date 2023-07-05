@@ -17,7 +17,8 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) <br />
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) <br />
+![Celery](https://img.shields.io/badge/-Celery-%2337814A?style=flat-square&logo=Celery)
 
 **Testing**
 
@@ -26,7 +27,8 @@
 **Databases**
 
 ![SQL](https://img.shields.io/badge/-SQL-%233179B9?style=flat-square&logo=SQL&logoColor=fff) <br />
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2330628A?style=flat-square&logo=PostgreSQL&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%23fff?style=flat-square&logo=MySQL&logoColor=4F7B99) ![SQLite](https://img.shields.io/badge/-SQLite-%23fff?style=flat-square&logo=SQLite&logoColor=4F7B99)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2330628A?style=flat-square&logo=PostgreSQL&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%23fff?style=flat-square&logo=MySQL&logoColor=4F7B99) ![SQLite](https://img.shields.io/badge/-SQLite-%23fff?style=flat-square&logo=SQLite&logoColor=4F7B99) <br />
+![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=Redis&logoColor=fff)
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-%23fff?style=flat-square&logo=MongoDB) -->
 
