@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Python Web Developer from Ukraine</h3>
 
-🌱 I’m currently learning **Django REST framework** <br />
+🌱 I’m currently learning **FastAPI** <br />
 📄 Know about my experiences at my [CV site](https://nikita-hubariev.me) <br />
 👨‍💻 All of my deployed projects are available at my [Project board](https://gubchik123-project-board.netlify.app/) <br />
 ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
