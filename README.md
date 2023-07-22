@@ -17,7 +17,7 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) <br />
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) <br />
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=FastAPI&logoColor=fff) <br />
 ![Celery](https://img.shields.io/badge/-Celery-%2337814A?style=flat-square&logo=Celery)
 
 **Testing**
@@ -38,4 +38,4 @@
 
 **Tools**
 
-![PyCharm](https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=PyCharm) ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-Studio-Code) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-%23fff?style=flat-square&logo=linux&logoColor=%23000)
+![PyCharm](https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=PyCharm) ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-Studio-Code) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) ![Windows + WSL](https://img.shields.io/badge/Windows%20+%20WSL-%23fff?style=flat-square&logo=linux&logoColor=%23000)
