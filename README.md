@@ -19,6 +19,11 @@
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=FastAPI&logoColor=fff) <br />
 ![Celery](https://img.shields.io/badge/-Celery-%2337814A?style=flat-square&logo=Celery)
 
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) <br />
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-%23720ce3?style=flat-square&logo=Bootstrap&logoColor=fff)
+
 **Testing**
 
 ![PyTest](https://img.shields.io/badge/-PyTest-%232c3e50?style=flat-square&logo=PyTest) ![Unittest](https://img.shields.io/badge/-UnitTest-%232c3e50?style=flat-square&logo=UnitTest) ![Selenium](https://img.shields.io/badge/-Selenium-%2300AB00?style=flat-square&logo=Selenium&logoColor=fff)
@@ -26,15 +31,17 @@
 **Databases**
 
 ![SQL](https://img.shields.io/badge/-SQL-%233179B9?style=flat-square&logo=SQL&logoColor=fff) <br />
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2330628A?style=flat-square&logo=PostgreSQL&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%23fff?style=flat-square&logo=MySQL&logoColor=4F7B99) ![SQLite](https://img.shields.io/badge/-SQLite-%23fff?style=flat-square&logo=SQLite&logoColor=4F7B99) <br />
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=PostgreSQL&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=fff) ![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=SQLite&logoColor=fff) <br />
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=Redis&logoColor=fff)
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-%23fff?style=flat-square&logo=MongoDB) -->
 
-**Front-end**
+**Version control systems**
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-%23720ce3?style=flat-square&logo=Bootstrap&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-%23181717?style=flat-square&logo=gitlab) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-%230052CC?style=flat-square&logo=bitbucket)
 
 **Tools**
 
-![PyCharm](https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=PyCharm) ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-Studio-Code) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23fff) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) ![Windows + WSL](https://img.shields.io/badge/Windows%20+%20WSL-%23fff?style=flat-square&logo=linux&logoColor=%23000)
+![PyCharm](https://img.shields.io/badge/-PyCharm-%23000000?style=flat-square&logo=PyCharm) ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-Studio-Code) <br />
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff) <br />
+![Windows + WSL](https://img.shields.io/badge/Windows%20+%20WSL-FCC624?style=flat-square&logo=linux&logoColor=000)
