@@ -2,7 +2,7 @@
 <h3 align="center">Python Web Developer from Ukraine</h3>
 
 📄 Know about my experiences at my [CV site](https://nikita-hubariev.me) <br />
-👨‍💻 All of my deployed projects are available at my [Project board](https://gubchik123-project-board.netlify.app/) <br />
+👨‍💻 All of my projects are available at my [Project board](https://gubchik123-project-board.netlify.app/) <br />
 ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
 
 ## Connect with me
