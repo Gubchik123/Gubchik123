@@ -16,7 +16,7 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) <br />
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=FastAPI&logoColor=fff) <br />
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=FastAPI&logoColor=fff) ![gRPC](https://img.shields.io/badge/-gRPC-%2334A9B2?style=flat-square&logo=betfair&logoColor=fff) <br />
 ![Celery](https://img.shields.io/badge/-Celery-%2337814A?style=flat-square&logo=Celery)
 
 **Front-end**
