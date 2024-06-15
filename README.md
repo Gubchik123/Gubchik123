@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">Python Web Developer from Ukraine</h3>
+<h3 align="center">Python Web Developer from Kharkiv, Ukraine</h3>
 
-📄 Know about my experiences at my [CV site](https://hubariev.com) <br />
+📄 Know about my experience at my [CV site](https://hubariev.com) <br />
 👨‍💻 All of my projects are available at my [Project board](https://portfolio.hubariev.com) <br />
 ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
 
@@ -16,13 +16,13 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) <br />
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=FastAPI&logoColor=fff) ![gRPC](https://img.shields.io/badge/-gRPC-%2334A9B2?style=flat-square&logo=betfair&logoColor=fff) <br />
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=FastAPI&logoColor=fff) <br />
 ![Celery](https://img.shields.io/badge/-Celery-%2337814A?style=flat-square&logo=Celery)
 
 **Front-end**
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=fff) <br />
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) <br />
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%233178C6&color=%233178C6) <br />
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-%23720ce3?style=flat-square&logo=Bootstrap&logoColor=fff)
 
 **Testing**
