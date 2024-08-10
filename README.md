@@ -2,7 +2,7 @@
 <h3 align="center">Python Web Developer from Kharkiv, Ukraine</h3>
 
 📄 Know about my experience at my [CV site](https://hubariev.com) <br />
-👨‍💻 All of my projects are available at my [Project board](https://portfolio.hubariev.com) <br />
+👨‍💻 All of my projects are available at my [portfolio](https://portfolio.hubariev.com) <br />
 ⚡ The phrase I follow: **"The best job is well paid hobby"** - Henry Ford
 
 ## Connect with me
@@ -16,7 +16,7 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) <br />
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=FastAPI&logoColor=fff) <br />
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django) ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat-square&logo=FastAPI&logoColor=fff) <br />
 ![Celery](https://img.shields.io/badge/-Celery-%2337814A?style=flat-square&logo=Celery)
 
 **Front-end**
