@@ -33,7 +33,8 @@
 
 ![SQL](https://img.shields.io/badge/-SQL-%233179B9?style=flat-square&logo=SQL&logoColor=fff) <br />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=PostgreSQL&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=fff) ![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=SQLite&logoColor=fff) <br />
-![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=Redis&logoColor=fff) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
+![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=Redis&logoColor=fff) 
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff) -->
 
 **Version control systems**
 
